@@ -7,7 +7,7 @@
         <VerticalStackLayout>
             <Label HorizontalOptions="Fill" HorizontalTextAlignment="Center">Hotelka 1</Label>
             <Image Source="chair.jpg"/>
-            <Label HorizontalOptions="Fill">Itog</Label>
+            <Label HorizontalOptions="Fill">replased by git</Label>
         </VerticalStackLayout>
     </ScrollView>
 
